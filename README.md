@@ -1,5 +1,5 @@
 # RSUD-Daha-Husada-Kediri
-PEMANFAATAN ALGORITMA NAÏVE BAYES UNTUK MEMPREDIKSI WILAYAH PENYULUHAN SEBAGAI STRATEGI PROMOSI PADA RUMAH SAKIT UMUM DAERAH DAHA HUSADA
+Proyek ini mengimplementasikan algoritma Naïve Bayes untuk memprediksi wilayah penyuluhan sebagai strategi promosi Rumah Sakit Umum Daerah Daha Husada berdasarkan data historis pasien. Prototype antarmuka pengguna dirancang menggunakan Figma sebagai gambaran pengembangan sistem di masa mendatang, sedangkan proses implementasi dan pengujian model dilakukan menggunakan Python melalui Google Colab.
 
 LINK FIGMA:
 https://www.figma.com/proto/ZU3PU9OWPsSkdMLcxa1FV8/KerjaPraktek?node-id=50-780&starting-point-node-id=50%3A1003&scaling=scale-down&content-scaling=fixed
